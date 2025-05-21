@@ -9,7 +9,7 @@
     "Fit": true,
     "Json": false,
     "Tcx": false,
-    "SaveLocalCopy": true,
+    "SaveLocalCopy": false,
     "IncludeTimeInHRZones": false,
     "IncludeTimeInPowerZones": false,
     "StackedWorkouts": {
@@ -19,15 +19,15 @@
   },
 
   "Peloton": {
-    "Email": "",
-    "Password": "",
+    "Email": "solomon.messing@gmail.com",
+    "Password": "lawsuit8grub9LYNX",
     "NumWorkoutsToDownload": 1,
     "ExcludeWorkoutTypes": [ ]
   },
 
   "Garmin": {
-    "Email": "",
-    "Password": "",
+    "Email": "muddier.scrunch.0w@icloud.com",
+    "Password": "eLyfZTpm33wK",
     "TwoStepVerificationEnabled": false,
     "Upload": false,
     "FormatToUpload": "fit"
